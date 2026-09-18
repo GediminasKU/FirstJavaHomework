@@ -9,7 +9,7 @@ public class Main {
 
 
         System.out.println("Hello ");
-        System.out.print("Please enter x value: ");
+        System.out.print("Please enter x valuenuionio : ");
         int x=in.nextInt();
 
         System.out.print("Please enter y value: ");
